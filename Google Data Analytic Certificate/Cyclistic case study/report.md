@@ -223,14 +223,14 @@ school than casual riders. However, more data and analysis would be
 needed to prove or disprove this possibility.
 
 [^1]: The dataset and packages used in this analysis were loaded with
-    the script [load.R](./load.R).
+    the script [load.R](./codes/load.R).
 
-[^2]: The filtering was done with the script [filter.R](./filter.R).
+[^2]: The filtering was done with the script [filter.R](./codes/filter.R).
 
-[^3]: Scripts [clean_start_station.R](./clean_start_station.R) and
-    [clean_end_station.R](./clean_end_station.R) were used to clean the
+[^3]: Scripts [clean_start_station.R](./codes/clean_start_station.R) and
+    [clean_end_station.R](./codes/clean_end_station.R) were used to clean the
     data.
 
-[^4]: The scripts [analyze.R](./analyze.R) and
-    [visualize.R](./visualize.R) are used to create the tables and
+[^4]: The scripts [analyze.R](./codes/analyze.R) and
+    [visualize.R](./codes/visualize.R) were used to create the tables and
     plots.
